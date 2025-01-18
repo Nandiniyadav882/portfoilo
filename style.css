@@ -1,0 +1,130 @@
+*{
+
+margin: 0px;
+padding:0px;
+font-family:' poppins', 'sans-serif';
+}
+body{
+
+background-color: rgb(3, 3, 49);
+color:white;
+
+}
+  
+
+nav{
+ align-items: center;
+ display: flex;
+ justify-content: space-around;
+ height: 80px ;
+ background-color: rgb(30, 30, 72);
+ font-size: 1.7rem;
+
+
+
+}
+nav ul{
+
+display: flex;
+justify-content: center;
+list-style: none;
+
+
+}
+
+nav ul li{
+
+margin-right:30px ;
+font-size: 1.5rem;
+
+}
+
+
+nav ul li:hover{
+
+ color: blueviolet;
+  font-size: 1.5rem;
+  
+  }
+
+.divleft{
+
+font-size: 1.5rem;
+
+}
+
+.first{
+
+display: flex;
+justify-content: space-around;
+margin: 45px;
+
+
+}
+.leftsection{
+
+width: 30%;
+font-size: 3rem;
+margin: 30px;
+
+
+}
+.rightsection img{
+
+  height: 400px;
+  margin: 30px;
+  
+  }
+
+  span{
+
+color: rgb(68, 45, 121);
+
+  }
+
+.secondsection{
+
+margin: auto;
+max-width: 80vw;
+height: 60vh;
+
+ }
+
+  main hr{
+
+border: 0;
+background-color: rgb(36, 36, 96);
+height: 2px;
+margin: 40px 84px;
+
+ }
+
+ .gray{
+
+color: gray;
+margin-bottom: 20px;
+
+ }
+ .classone ul {
+
+margin-top: 80px  ;
+font-size: 1rem;
+
+
+
+ }
+
+ .classone ul li{
+
+margin: 20px;
+font-size: 1.9rem;
+text-decoration: underline;
+
+
+ }
+
+ .secondsection h1{
+
+font-size: 3rem;
+
+ }
